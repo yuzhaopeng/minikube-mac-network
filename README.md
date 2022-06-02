@@ -1,4 +1,5 @@
-[中文说明]()
+[中文说明](./README-zh.md)
+
 This solution allows you to access your minikube's internal networks directly from your macOS host machine, using OpenVPN.
 
 ## Networking features in Docker Desktop for Mac
