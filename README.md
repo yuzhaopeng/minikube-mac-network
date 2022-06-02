@@ -2,7 +2,7 @@
 
 This solution allows you to access your minikube's internal networks directly from your macOS host machine, using OpenVPN.
 
-## Networking features in Docker Desktop for Mac
+## Networking features at Docker Desktop for Mac
 there is some Known limitations at docker for mac  reference [here](https://docs.docker.com/desktop/mac/networking/#known-limitations-use-cases-and-workarounds) 
 
 
